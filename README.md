@@ -3,3 +3,5 @@
 Biblioteca Musical
 
 En este proyecto se realizara la organizacion de una biblioteca musical.
+
+OBJETIVOS:
